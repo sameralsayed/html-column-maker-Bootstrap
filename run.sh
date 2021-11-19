@@ -3,7 +3,7 @@ path=$(pwd)
 
     #Name : HTML Column Maker - Bootstrap
     #Created by : SAMER SAEID
-    #Copyright : MIT
+    #Copyright : SAMER SAEID
     #URL: https://www.facebook.com/samerthehariri/
     #Date: 11/19/2021
 
