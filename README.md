@@ -35,4 +35,4 @@ play file "run.sh" It will automatically teach you how to use it  (:
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
