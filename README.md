@@ -1,8 +1,6 @@
 # HTML Column Maker - Bootstrap
 Simple, easy and unlimited page maker
 
-[Buy Now](https://payhip.com/b/vRhx5)
-
 # install git
 
 ```python
